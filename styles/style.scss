@@ -1,4 +1,7 @@
-// モバイルファースト
+@import 'modules/variables';
+@import 'modules/mixin';
+@import 'modules/hero-slider';
+
 @import "breakpoints/base";
 
 @media (min-width: 480px) {
